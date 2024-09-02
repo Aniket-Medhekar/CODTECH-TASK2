@@ -25,3 +25,13 @@ Python:- The primary programming language fro data analysis.
 Pandas:- Used for data manipulation and analysis.
 Matplotlib:- Employed for creating static animated and interactive visualizations.
 
+**OUTPUTS**
+![Screenshot (73)](https://github.com/user-attachments/assets/e8df6ce0-1a43-459c-92c0-f82ee9eb18d2)
+![Screenshot (74)](https://github.com/user-attachments/assets/e57e5383-62fd-4e06-85f1-8bd47970434b)
+![Screenshot (75)](https://github.com/user-attachments/assets/fa629950-3e32-4cc1-85ab-b9c4fb89bd7c)
+![Screenshot (76)](https://github.com/user-attachments/assets/af1675c5-6622-4d97-8199-ac8fee515422)
+
+
+
+
+
